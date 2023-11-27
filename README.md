@@ -1,7 +1,19 @@
 # DiMaggio
 
 Bem-vindo à Di Maggio, um espaço dedicado ao crescimento acadêmico, desenvolvimento pessoal e preparação para o futuro. 
-Nossa escola abrange desde o ensino fundamental até o ensino médio, proporcionando uma jornada educacional completa para nossos alunos.
+Nossa escola abrange desde a educação infantil até o ensino médio, proporcionando uma jornada educacional completa para nossos alunos.
+
+# Educação Infantil: Maternal 1 - Descobrindo o Mundo:
+
+No Maternal 1, nossos pequenos exploradores começam a jornada da aprendizagem de maneira lúdica e afetiva. Focamos no desenvolvimento das habilidades motoras, na estimulação sensorial e no estabelecimento de vínculos afetivos positivos com os colegas e educadores. As atividades são projetadas para despertar a curiosidade natural das crianças, enquanto aprendem sobre o ambiente ao seu redor.
+
+# Maternal 2 (Pré 1) - Explorando e Criando:
+
+No Maternal 2, ou Pré 1, a ênfase está na exploração criativa. As crianças começam a desenvolver habilidades cognitivas e sociais através de atividades estruturadas e brincadeiras direcionadas. Nosso currículo visa promover o desenvolvimento da linguagem, da coordenação motora e do pensamento lógico, preparando as crianças para as próximas fases de sua jornada educacional.
+
+# Pré 2: Preparando para o Ensino Fundamental:
+
+No Pré 2, nossa equipe de educadores dedicados foca no refinamento das habilidades pré-acadêmicas, preparando as crianças para a transição para o ensino fundamental. Desenvolvemos atividades que estimulam a alfabetização inicial, o raciocínio matemático básico e o desenvolvimento social. Além disso, promovemos a autonomia e a autoconfiança, preparando os pequenos para os desafios emocionais e cognitivos que encontram no próximo estágio escolar.
 
 # Ensino Fundamental:
 
